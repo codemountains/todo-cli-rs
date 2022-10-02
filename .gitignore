@@ -52,3 +52,7 @@ Temporary Items
 # IntelliJ
 .idea
 *.iml
+
+# To-Do List App
+db.txt
+db.json
